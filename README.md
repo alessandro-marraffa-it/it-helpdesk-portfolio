@@ -7,7 +7,7 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 - Windows 10/11
 - Linux (Ubuntu)
 - Active Directory: utenti, gruppi, reset password
-- Microsoft 365: account, email, sincronizzazione
+- Microsoft 365: account, email e sincronizzazione
 - Supporto remoto agli utenti
 - Troubleshooting rete: DNS, IP, ping, tracert
 - Utilizzo di CMD, PowerShell e terminale Linux per diagnostica e troubleshooting
