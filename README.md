@@ -8,7 +8,7 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 - Linux (Ubuntu)
 - Active Directory: utenti, gruppi, reset password
 - Microsoft 365: account, email e sincronizzazione
-- Conoscenza del flusso di lavoro su Jira simulato in ambiente di studio: creazione ticket, gestione priorità e risoluzione
+- Conoscenza dei sistemi di ticketing (Jira) e piattaforme di supporto remoto (AnyDesk e RDP) grazie all'uso di ambienti virtuali simulati
 - Troubleshooting rete: DNS, IP, ping, tracert
 - Utilizzo di CMD, PowerShell e terminale Linux per diagnostica e troubleshooting
 - Buona conoscenza dei linguaggi di programmazione Python e MySQL
