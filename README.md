@@ -22,4 +22,4 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 - Laboratorio rete domestica/aziendale con test di connettività
 
 # OBIETTIVI
-Entrare in un ruolo di Supporto IT/Help Desk per crescere professionalmente e acquisire nuove esperienze e competenze in ambito informatico.
+Entrare in un ruolo di Supporto IT/Help Desk per crescere professionalmente eacquisire nuove esperienze e competenze in ambito informatico.
