@@ -15,7 +15,7 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 - Scripting Python, Bash e PowerShell
 
 # PROGETTI IN QUESTO REPOSITORY
-- Script Python per gestione file e analisi log
+- Script Python per monitoraggio processi CPU/RAM (utile per troubleshooting relativo a PC lento)
 - Script PowerShell per manutenzione e diagnostica Windows
 - Script Bash Linux per backup e log
 - Laboratorio Active Directory in VM
