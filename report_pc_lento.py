@@ -1,6 +1,6 @@
 import psutil   # libreria usata per leggere info su processi e risorse
 
-print("=== REPORT AUTOMATICO – PC LENTO ===")
+print("=== REPORT AUTOMATICO PER PC LENTO ===")
 
 # ----- Controllo processi che usano più CPU -----
 
