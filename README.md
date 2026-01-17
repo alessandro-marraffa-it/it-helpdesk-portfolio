@@ -11,7 +11,7 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 - Conoscenza dei sistemi di ticketing (Jira) e piattaforme di supporto remoto (AnyDesk e RDP) grazie all'uso di ambienti virtuali simulati
 - Troubleshooting rete: DNS, IP, ping, tracert
 - Utilizzo di CMD, PowerShell e terminale Linux per diagnostica e troubleshooting
-- Buona conoscenza dei linguaggi di programmazione Python e MySQL
+- Buona conoscenza del linguaggio di programmazione Python
 - Scripting Python, Bash e PowerShell
 
 # PROGETTI IN QUESTO REPOSITORY
