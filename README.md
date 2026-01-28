@@ -17,9 +17,7 @@ Mi sto specializzando nel supporto remoto agli utenti, nel troubleshooting di si
 # PROGETTI IN QUESTO REPOSITORY
 - Script Python per monitoraggio processi CPU/RAM (utile per attività di troubleshooting su PC lento)
 - Script PowerShell per manutenzione e diagnostica Windows
-- Script Bash Linux per backup e log
-- Laboratorio Active Directory in VM
-- Laboratorio rete domestica/aziendale con test di connettività
+- Tool PowerShell per il troubleshooting rapido di problemi di rete su Windows (pensato per attività Help Desk reali).
 
 # OBIETTIVI
 Entrare in un ruolo di Supporto IT/Help Desk per crescere professionalmente e acquisire nuove esperienze e competenze in ambito informatico.
