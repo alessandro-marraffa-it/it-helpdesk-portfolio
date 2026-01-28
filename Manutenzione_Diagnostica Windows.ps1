@@ -10,7 +10,7 @@ Write-Host "Data e ora sistema" -ForegroundColor Yellow
 Get-Date
 
 # STATO INTERNET 
-Write-Host "`n[3] Verifica connessione Internet" -ForegroundColor Yellow
+Write-Host "Verifica connessione Internet" -ForegroundColor Yellow
 if (Test-Connection -ComputerName 8.8.8.8 -Quiet -Count 1) {
     Write-Host "Internet OK" -ForegroundColor Green
 } else {
@@ -67,4 +67,5 @@ Write-Host "Controllo file di sistema (SFC)" -ForegroundColor Yellow
 sfc /scannow
 
 Write-Host "OPERAZIONI COMPLETATE" -ForegroundColor Magenta
+
 
